@@ -13,7 +13,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://dr-eleven.github.io/Lei-Shi.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Nanjing University of Science and Technology "
   location         : "China Nanjing"
   employer         : 
-  uri              : "https://dr-eleven.github.io/Lei-Shi.github.io/"
+  uri              : 
   email            : "918106840541@njust.edu.cn" 
 
   # Academic websites
